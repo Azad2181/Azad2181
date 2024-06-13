@@ -23,9 +23,9 @@ Professional Skills:
 ✔CSS
 
 
-
-
-
+## Education
+MSc in Computer Science and Engineering - Appeared.
+BSc in Computer Science and Engineering - 2022.
 
 
 
