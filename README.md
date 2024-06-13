@@ -5,20 +5,22 @@
 I am a Data Analyst and Business Intelligence. 
 
 Professional Skills: 
+
 ✔PYTHON
-✔SQL, 
 
-✔POWER BI,
+✔SQL 
 
-✔SNOWFLAKES, 
+✔POWER BI
 
-✔ETL, 
+✔SNOWFLAKES
 
-✔MACHINE LEARNING, 
+✔ETL
 
-✔HTML, 
+✔MACHINE LEARNING
 
-✔CSS.
+✔HTML 
+
+✔CSS
 
 
 
