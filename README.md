@@ -1,7 +1,7 @@
 ![Marketing Expert1](https://github.com/Azad2181/Azad2181/assets/121395998/05281bc8-f6db-485c-bbcc-9fd05ed330f6)
 
-## Hello
-#### Call me Azad
+# Hello
+### Call me Azad
 I am a Data Analyst and Business Intelligence. 
 
 Professional Skills: 
