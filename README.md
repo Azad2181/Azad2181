@@ -24,7 +24,7 @@ I am a Data Analyst and Business Intelligence. I have a passion for learning and
 
 
 ## Education
-MSc in Computer Science and Engineering - Appeared.
+MSc in Computer Science and Engineering (Major- Data Science) - Appeared.
 
 BSc in Computer Science and Engineering - 2022.
 
