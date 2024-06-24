@@ -29,7 +29,7 @@ MSc in Computer Science and Engineering (Major- Data Science) - Appeared.
 BSc in Computer Science and Engineering - 2022.
 
 
-
+### [Resume Download](https://drive.google.com/uc?export=download&id=1oXpiECJn4FJBfrkYzRBCcN2AyGzK5MSR)
 
 
 
