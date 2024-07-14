@@ -6,9 +6,13 @@ I am a Data Analyst and Business Intelligence Analyst. I have a passion for lear
 
 ### Professional Skills: 
 
+✔C
+
 ✔PYTHON
 
 ✔SQL 
+
+✔MySQL 
 
 ✔Excel
 
@@ -17,6 +21,8 @@ I am a Data Analyst and Business Intelligence Analyst. I have a passion for lear
 ✔SNOWFLAKES
 
 ✔ETL
+
+✔API
 
 ✔MACHINE LEARNING
 
