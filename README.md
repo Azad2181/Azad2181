@@ -36,6 +36,7 @@ MSc in Computer Science and Engineering (Major- Data Science) - Appeared.
 
 BSc in Computer Science and Engineering - 2022.
 
+
 #### WhatsApp: +8801759101063
 #### Email: abulkalamazad2181@gmail.com
 
