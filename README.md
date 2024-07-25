@@ -18,6 +18,8 @@ I am a Data Analyst and Business Intelligence Analyst. I have a passion for lear
 
 ✔POWER BI
 
+✔Google Analytics
+
 ✔SNOWFLAKES
 
 ✔ETL
