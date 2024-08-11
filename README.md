@@ -24,6 +24,8 @@ I am a Data Analyst and Business Intelligence Analyst. I have a passion for lear
 
 ✔ETL
 
+✔ Azure Analysis 
+
 ✔API
 
 ✔MACHINE LEARNING
