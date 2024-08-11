@@ -14,17 +14,17 @@ I am a Data Analyst and Business Intelligence Analyst. I have a passion for lear
 
 ✔MySQL 
 
-✔Excel
+✔EXCEL ANALYSIS 
 
 ✔POWER BI
 
-✔Google Analytics
+✔GOOGLE ANALYTICS 
 
 ✔SNOWFLAKES
 
 ✔ETL
 
-✔ Azure Analysis 
+✔ AZURE ANALYSIS 
 
 ✔API
 
