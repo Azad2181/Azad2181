@@ -8,31 +8,30 @@ I am a Data Analyst and Business Intelligence Analyst. I have a passion for lear
 
 ✔C
 
-✔PYTHON
+✔PYTHON: Pandas, Numpy, Scikit-Learn, Matplotlib, Seaborn, etc 
 
-✔SQL 
+✔SQL: PostgreSQL, MySQL & Microsoft SQL Server 
 
-✔MySQL 
+✔EXCEL: Pivot Table, Chart, Statistical Analysis & Dashboard 
 
-✔EXCEL ANALYSIS 
+✔POWER BI: DAX, Power Query, Dashboard 
 
-✔POWER BI
+✔GOOGLE ANALYTICS: Web/Digital Analysis & Dashboard
 
-✔GOOGLE ANALYTICS 
-
-✔SNOWFLAKES
-
-✔ETL
+✔SNOWFLAKES: ETL Process & Data Warehousing 
 
 ✔ AZURE ANALYSIS 
 
-✔API
+✔API: First api python
 
-✔MACHINE LEARNING
+✔MACHINE LEARNING: TensorFlow and PyTorch
 
-✔HTML 
+✔DEEP LEARNING: Keras 
 
-✔CSS
+✔BIG DATA: Hadoop, MapReduce 
+
+✔HTML/ CSS: Front-end web design
+
 
 
 ## Education
