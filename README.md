@@ -1,4 +1,4 @@
-<img width="1100" height="365" alt="Image" src="https://github.com/user-attachments/assets/1507be52-ae24-4ba3-a38a-d3cf586c3723" />
+<img width="1036" height="409" alt="Image" src="https://github.com/user-attachments/assets/4bc7d192-f09a-40e8-ab74-65a68f216fe8" />
 
 # Hello
 ## Call me Azad .....
