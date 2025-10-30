@@ -1,4 +1,4 @@
-![ffffff](https://github.com/Azad2181/Azad2181/assets/121395998/2cad1e29-26d4-423d-9ac9-eea8566ff383)
+<img width="1100" height="365" alt="Image" src="https://github.com/user-attachments/assets/1507be52-ae24-4ba3-a38a-d3cf586c3723" />
 
 # Hello
 ## Call me Azad .....
