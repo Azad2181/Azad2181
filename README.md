@@ -11,7 +11,7 @@ I am a Data Analyst and Business Intelligence Analyst. I have a passion for lear
 
 ✔EXCEL: Pivot Table, Chart, Statistical Analysis & Dashboard 
 
-✔POWER BI: DAX, Power Query, Dashboard 
+✔POWER BI & Looker Studio: DAX, Power Query, Dashboard 
 
 ✔GOOGLE ANALYTICS: Web/Digital Analysis & Dashboard
 
