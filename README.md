@@ -2,7 +2,7 @@
 
 # Hello
 ## CALL ME AZAD .....
-I am a Analyst. I have a passion for learning and sharing my knowledge with others. My biggest strengths are my intelligence, conscience, time management, leadership, and excellent communication skills. My goal is to leverage my expertise in mathematics, statistics, and programming to drive breakthroughs in data analysis, leading to more intelligent, efficient, And become a Data Science and AI Developer.
+I am a Analyst. I have a passion for learning and sharing my knowledge with others. My biggest strengths are my intelligence, conscience, time management, leadership, and excellent communication skills. My goal is to leverage my expertise in mathematics, statistics, and programming to drive breakthroughs in data analysis, leading to more intelligent, efficient and ethical AI systems, And become a Data Science and AI Developer.
 
 ### Professional Skills: 
 ✔PYTHON: Pandas, Numpy, Scikit-Learn, Matplotlib, Seaborn, etc 
