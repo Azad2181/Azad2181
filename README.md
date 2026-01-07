@@ -12,9 +12,9 @@ I'm a passionate Data Science and AI with a strong foundation in Computer Scienc
 
 - 🔭 I'm currently working on advancing my skills in **Analysis** and **Computer Vision**
 - 📊 Analytical Tools Expertise **Power BI, Looker Studio, Excel** and **Google Sheet**
-- 🌱 I'm learning **TensorFlow, PyTorch, and Big Data Technologies**
+- 🌱 I'm learning **Big Data and AI Technologies**
 - 👯 I'm looking to collaborate on **Data Science Projects** and **AI Development Project**
-- 💬 Ask me about **Python, SQL, Data Analysis, Machine Learning, Deep Learning, and Computer Vision **
+- 💬 Ask me about **Python, SQL, Data Analysis, Machine Learning, Deep Learning, and Gen AI**
 - 📫 How to reach me: `abulkalamazad2181@gmail.com` `+8801759101063` 
 - ⚡ Fun fact: I believe in continuous learning and sharing knowledge with others
 
