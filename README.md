@@ -37,6 +37,7 @@ I'm a passionate Data Science and AI with a strong foundation in Computer Scienc
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0081A5?style=for-the-badge)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-0A2472?style=for-the-badge)
 ![Generative AI](https://img.shields.io/badge/Generative%20AI-6A0DAD?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ### **Databases & Big Data**
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
