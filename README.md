@@ -33,22 +33,7 @@
 
 <hr> -->
 
-#### You can also find me on: 
 
-[<img align="left" alt="Azad | Email" width="30px" src="https://img.icons8.com/color/48/000000/gmail-new.png" />][email]
-[<img align="left" alt="Azad | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="Azad | GitHub" width="30px" src="https://img.icons8.com/material-outlined/48/000000/github.png" />][github]
-[<img align="left" alt="Azad | Facebook" width="30px" src="https://img.icons8.com/color/48/000000/facebook-new.png" />][facebook]
-[<img align="left" alt="Azad | WhatsApp" width="30px" src="https://img.icons8.com/color/48/000000/whatsapp.png" />][whatsapp]
-
-<br />
-<br />
-
-[email]: mailto:abulkalamazad2181@gmail.com
-[linkedin]: https://www.linkedin.com/in/abul-kalam-azad-091a10218/
-[github]: https://github.com/Azad2181
-[facebook]: https://www.facebook.com/akazad.0/
-[whatsapp]: https://wa.me/8801759101063
 
 ## 💰 You can support me if you liked my work by Donating
 
@@ -82,5 +67,20 @@
        alt="Azad2181" />
 </p>
 
+#### You can also find me on: 
 
+[<img align="left" alt="Azad | Email" width="30px" src="https://img.icons8.com/color/48/000000/gmail-new.png" />][email]
+[<img align="left" alt="Azad | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="Azad | GitHub" width="30px" src="https://img.icons8.com/material-outlined/48/000000/github.png" />][github]
+[<img align="left" alt="Azad | Facebook" width="30px" src="https://img.icons8.com/color/48/000000/facebook-new.png" />][facebook]
+[<img align="left" alt="Azad | WhatsApp" width="30px" src="https://img.icons8.com/color/48/000000/whatsapp.png" />][whatsapp]
+
+<br />
+<br />
+
+[email]: mailto:abulkalamazad2181@gmail.com
+[linkedin]: https://www.linkedin.com/in/abul-kalam-azad-091a10218/
+[github]: https://github.com/Azad2181
+[facebook]: https://www.facebook.com/akazad.0/
+[whatsapp]: https://wa.me/8801759101063
 
