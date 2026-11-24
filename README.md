@@ -1,13 +1,13 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 <h1 align="center">I'm Azad 😀</h1>
 <h3 align="center">I'm a Data Scientist</h3>
-
+<h3 align="center">AI Engineer @ BYSL Global Technology Group</h3>
 
 
 ### Technical Experience and Interests:
 * Deep Learning
 * Machine Learning
-* Computer vision 
+* Computer Vision 
 * Natural Language Processing
 * MLOps
 * Generative AI 
@@ -35,7 +35,7 @@
 
 
 
-## 💰 You can support me if you liked my work by Donating
+## 💰 You can support me if you liked my work by donating
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Azad2181&label=Profile%20views&color=0e75b6&style=flat" alt="Azad2181" />
@@ -82,7 +82,7 @@
 [linkedin]: https://www.linkedin.com/in/abul-kalam-azad-091a10218/
 [github]: https://github.com/Azad2181
 [facebook]: https://www.facebook.com/akazad.0/
-[whatsapp]: https://wa.me/8801759101063
+[WhatsApp]: https://wa.me/8801759101063
 
 
 ⭐ **Feel free to explore my repositories.**
