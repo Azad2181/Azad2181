@@ -79,7 +79,7 @@
 <br />
 <br />
 
-[Email ID]: mailto:abulkalamazad2181@gmail.com
+[Email]: mailto:abulkalamazad2181@gmail.com
 [Linkedin]: https://www.linkedin.com/in/abul-kalam-azad-091a10218/
 [GitHub]: https://github.com/Azad2181
 [Facebook]: https://www.facebook.com/akazad.0/
