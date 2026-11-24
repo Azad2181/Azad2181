@@ -5,8 +5,9 @@
 
 
 ### Technical Experience and Interests:
-* Deep Learning
+* Artificial Intelligence
 * Machine Learning
+* Deep Learning
 * Computer Vision 
 * Natural Language Processing
 * MLOps
@@ -78,10 +79,10 @@
 <br />
 <br />
 
-[email]: mailto:abulkalamazad2181@gmail.com
-[linkedin]: https://www.linkedin.com/in/abul-kalam-azad-091a10218/
-[github]: https://github.com/Azad2181
-[facebook]: https://www.facebook.com/akazad.0/
+[Email ID]: mailto:abulkalamazad2181@gmail.com
+[Linkedin]: https://www.linkedin.com/in/abul-kalam-azad-091a10218/
+[GitHub]: https://github.com/Azad2181
+[Facebook]: https://www.facebook.com/akazad.0/
 [WhatsApp]: https://wa.me/8801759101063
 
 
